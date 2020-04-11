@@ -1,0 +1,17 @@
+Git tutorial provides basic and advanced concepts of
+ Git and GitHub. Our Git tutorial is designed for beginners and professionals.
+
+Git is a modern and widely used distribut
+ed version control system in the world. It
+ is developed to manage projects with high speed and 
+
+efficiency. The version control system allows us to m
+onitor and work together with our team members at the same workspace.
+
+This tutorial will help you to understand t
+he distributed version control system Git via the
+ command line as well as with GitHub. The examples 
+
+in this tutorial are performed on Windows, but we can 
+also perform same operations on other operating systems like Linu
+x (Ubuntu) and MacOS.
