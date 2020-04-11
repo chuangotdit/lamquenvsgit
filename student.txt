@@ -10,3 +10,4 @@ difftool
 abs
 213213
 >>>>>>> parent of fbb8ebe... the deo nao
+khoahentimeout
